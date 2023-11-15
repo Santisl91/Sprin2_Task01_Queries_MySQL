@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6ca5046-ad35-404a-b992-208d230cdde6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Sprint1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sprint1/.idea/Sprint1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sprint1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sprint1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sprint1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sprint1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sprint1/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sprint1/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sprint1/src/test/java/Task_S1_04_Testing/Testing_Ni_Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sprint1/src/test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprint1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprint1/src/main/java/Task_S1_01_Inheritance_Polymorphism/N1_Ex01/Cuerda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprint1/src/main/java/Task_S1_01_Inheritance_Polymorphism/N1_Ex01/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprint1/src/main/java/Task_S1_03_Java_Collections/N1_Ex03/clasificacion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprint1/src/main/java/Task_S1_03_Java_Collections/N1_Ex03/countries.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprint1/src/main/java/Task_S1_04_Testing/N1_Ex01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprint1/src/main/java/Task_S1_04_Testing/N1_Ex01/Task_S1_04_Testing/N1_Ex01/Months.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprint1/src/main/java/Task_S1_04_Testing/N1_Ex02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprint1/src/main/java/Task_S1_04_Testing/N1_Ex02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprint1/src/main/java/Task_S1_04_Testing/N1_Ex03/EjemploArrayIndexOutOfBoundsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprint1/src/main/java/Task_S1_04_Testing/N1_Ex03/EjemploArrayIndexOutOfBoundsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprint1/src/main/java/Task_S1_05_Utils/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprint1/src/main/java/Task_S1_07_Annotations/N2_Ex01/JSONSerializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprint1/src/main/java/Task_S1_07_Annotations/N2_Ex01/JSONSerializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprint1/src/test/java/Task_S1_04_Testing/N1_Ex01/AppTestCalendario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprint1/src/test/java/Task_S1_04_Testing/N1_Ex02/CalculoDniTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprint1/src/test/java/Task_S1_04_Testing/N1_Ex03/EjemploArrayIndexOutOfBoundsExceptionTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2XvpOrtK1nnKjg5hbruyRHkqlSS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/santiagosantos/IdeaProjects/Sprint2/Task_S2_02_MySQL Queries"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6ca5046-ad35-404a-b992-208d230cdde6" name="Changes" comment="" />
+      <created>1699519379136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699519379136</updated>
+    </task>
+    <servers />
+  </component>
+</project>
