@@ -1,4 +1,4 @@
-# Sprin2_Task01_Queries_MySQL-
+# Sprin2_Task01_Queries_MySQL
 
 Este repositorio contiene dos scripts: uno para una tienda y otro para una universidad. Estos scripts tienen como objetivo demostrar el dominio en el uso de queries.
 
